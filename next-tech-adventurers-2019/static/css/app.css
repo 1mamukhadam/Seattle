@@ -1,0 +1,21 @@
+/**
+* Your CSS here
+**/
+body {background-color: #E8E2CC;}
+h1 {
+    font-family: Glook;
+}
+h2 {
+    font-family: Zeyada;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+  }
+
+#list{
+    margin-top: 40px;
+}
